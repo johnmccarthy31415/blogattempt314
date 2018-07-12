@@ -1,0 +1,8 @@
+---
+title: test3
+author: jmc
+date: '2018-07-12'
+slug: test3
+categories: []
+tags: []
+---

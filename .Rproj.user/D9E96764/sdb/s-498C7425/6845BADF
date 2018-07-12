@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: test3\nauthor: jmc\ndate: '2018-07-12'\nslug: test3\ncategories: []\ntags: []\n---\n",
+    "created" : 1531434414358.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3096897463",
+    "id" : "6845BADF",
+    "lastKnownWriteTime" : 1531434412,
+    "last_content_update" : 1531434412,
+    "path" : "~/R/blog314/blogattempt314/content/post/2018-07-12-test3.Rmd",
+    "project_path" : "content/post/2018-07-12-test3.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
