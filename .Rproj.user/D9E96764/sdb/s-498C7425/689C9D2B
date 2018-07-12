@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: This post is a test\nauthor: JMc\ndate: '2018-07-12'\nslug: this-post-is-a-test\ncategories: []\ntags: []\n---\n\"hello world!\"\n\nblogdown::build_site()",
+    "contents" : "---\ntitle: This post is a test\nauthor: JMc\ndate: '2018-07-12'\nslug: this-post-is-a-test\ncategories: []\ntags: []\n---\n\"hello world!\"",
     "created" : 1531432862323.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1193945739",
+    "hash" : "460057323",
     "id" : "689C9D2B",
     "lastKnownWriteTime" : 1531432870,
-    "last_content_update" : 1531433863039,
+    "last_content_update" : 1531432870,
     "path" : "~/R/blog314/blogattempt314/content/post/2018-07-12-this-post-is-a-test.Rmd",
     "project_path" : "content/post/2018-07-12-this-post-is-a-test.Rmd",
     "properties" : {
