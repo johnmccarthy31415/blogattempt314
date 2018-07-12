@@ -1,0 +1,9 @@
+---
+title: This post is a test
+author: JMc
+date: '2018-07-12'
+slug: this-post-is-a-test
+categories: []
+tags: []
+---
+"hello world!"
