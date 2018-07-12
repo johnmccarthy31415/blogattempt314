@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: test3\nauthor: jmc\ndate: '2018-07-12'\nslug: test3\ncategories: []\ntags: []\n---\n",
+    "contents" : "---\ntitle: test3\nauthor: jmc\ndate: 2018-07-23T21:13:14-05:00\nslug: test3\ncategories: [\"R\"]\ntags: [\"R Markdown\", \"plot\", \"regression\"]\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(collapse = TRUE)\n```\n\n# R Markdown\n\nThis is test\n```{r cars}\nsummary(cars)\nfit <- lm(dist ~ speed, data = cars)\nfit\n```",
     "created" : 1531434414358.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3096897463",
+    "hash" : "1347053073",
     "id" : "6845BADF",
-    "lastKnownWriteTime" : 1531434412,
-    "last_content_update" : 1531434412,
+    "lastKnownWriteTime" : 1531436182,
+    "last_content_update" : 1531436182838,
     "path" : "~/R/blog314/blogattempt314/content/post/2018-07-12-test3.Rmd",
     "project_path" : "content/post/2018-07-12-test3.Rmd",
     "properties" : {

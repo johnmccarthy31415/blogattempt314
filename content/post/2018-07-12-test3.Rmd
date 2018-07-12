@@ -1,8 +1,21 @@
 ---
 title: test3
 author: jmc
-date: '2018-07-12'
+date: 2018-07-23T21:13:14-05:00
 slug: test3
-categories: []
-tags: []
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+This is test
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
